@@ -13,6 +13,7 @@
 		FA1E253419F1311700FA8B67 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA1E253319F1311700FA8B67 /* Images.xcassets */; };
 		FA1E253719F1311700FA8B67 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA1E253519F1311700FA8B67 /* LaunchScreen.xib */; };
 		FA1E254319F1311700FA8B67 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1E254219F1311700FA8B67 /* PhotoFiltersTests.swift */; };
+		FA1E254D19F1318A00FA8B67 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1E254C19F1318A00FA8B67 /* 0.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		FA1E253C19F1311700FA8B67 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA1E254119F1311700FA8B67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA1E254219F1311700FA8B67 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		FA1E254C19F1318A00FA8B67 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		FA1E252919F1311700FA8B67 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				FA1E254C19F1318A00FA8B67 /* 0.jpg */,
 				FA1E252C19F1311700FA8B67 /* AppDelegate.swift */,
 				FA1E252E19F1311700FA8B67 /* ViewController.swift */,
 				FA1E253019F1311700FA8B67 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA1E254D19F1318A00FA8B67 /* 0.jpg in Resources */,
 				FA1E253219F1311700FA8B67 /* Main.storyboard in Resources */,
 				FA1E253719F1311700FA8B67 /* LaunchScreen.xib in Resources */,
 				FA1E253419F1311700FA8B67 /* Images.xcassets in Resources */,
